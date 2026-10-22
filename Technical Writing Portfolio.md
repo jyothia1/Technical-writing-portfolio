@@ -29,7 +29,8 @@ My experience includes documentation planning, collaboration with subject matter
 - Retrieving an individual person
 - Request URLs and path parameters
 
-[View the SWAPI documentation](https://github.com/jyothia1/Technical-writing-portfolio/blob/main/API%20Overview%20%2B%20API%20Reference%20for%20SWAPI.docx)
+[View the SWAPI API Overview documentation](https://github.com/jyothia1/Technical-writing-portfolio/commit/00460ce454b0c7f9f84d2f693433817e913a7078)
+[View the SWAPI API Reference documentation]()
 
 ## Contact
 
