@@ -33,4 +33,4 @@ My experience includes documentation planning, collaboration with subject matter
 
 ## Contact
 
-For professional opportunities, please contact me through my LinkedIn profile.
+For professional opportunities, please contact me through my [LinkedIn profile](www.linkedin.com/in/jyothi-a-1b63963ab).
